@@ -45,7 +45,8 @@
     border: none;
     border-radius: 2px;
 
-    margin-right: auto; 
+    margin-right: auto;
+    padding-left: 10px; 
 }
 .search-box > button {
     background-color: #f53d2d;
